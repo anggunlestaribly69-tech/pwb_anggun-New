@@ -48,6 +48,7 @@
                 <ul class="nav flex-column sub-menu">
                   <li class="nav-item"> <a class="nav-link" href="<?php echo base_url() ?>pesanan">Lihat Pesanan</a></li>
                   <li class="nav-item"> <a class="nav-link" href="<?php echo base_url() ?>lihat_pembayaran">Lihat Pembayaran</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="<?php echo base_url() ?>pengiriman">Data Pengiriman</a></li>
                 </ul>
               </div>
             </li>
